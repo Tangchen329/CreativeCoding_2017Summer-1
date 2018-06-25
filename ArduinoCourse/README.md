@@ -10,7 +10,7 @@
 - Day2:Arduino语法讲解，实验讲解
 - Day3: 实验讲解
 - Day4: 实验讲解
-- Day5:实验讲解
+- Day5:小作业讲解/拓展
 - Final Project: Coding Challenge for Creativity
 
 ### Arduino下载链接
@@ -63,9 +63,16 @@ https://www.arduino.cc/
 
 - [arduino web based mp3 player](https://create.arduino.cc/projecthub/khanhhs/arduino-web-based-mp3-player-9bc616?ref=similar&ref_id=43623&offset=2)
 
+- [10 Arduino Projects with DIY Step by Step Tutorials](https://www.youtube.com/watch?v=QUQta4f_87E)
+
+- [8x8x8 LED CUBE WITH ARDUINO UNO](https://www.youtube.com/watch?v=T5Aq7cRc-mU&t=265s)
+
+- [DIY Useless Box with Arduino](https://www.youtube.com/watch?v=cpdjQ0gheDQ)
+
 #### 参考网站
 
 - [ServDuino - Build Your Own Arduino Web Server](http://www.instructables.com/id/ServDuino-Arduino-Webserver/)
 #### 相关课程
 
 - [physical computing ](http://ideate.cmu.edu/undergraduate-programs/physical-computing/)
+- [fritzing introduction](http://fritzing.org/learning/get-started/)
